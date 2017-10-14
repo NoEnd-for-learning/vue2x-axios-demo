@@ -2,8 +2,8 @@
   "name": "vue-axios",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "heuulzp <heuulzp@163.com>",
-  "private": true,
+  "author": "tshu",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
